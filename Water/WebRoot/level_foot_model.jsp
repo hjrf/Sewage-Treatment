@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*"pageEncoding="UTF-8" %>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8" %>
                     <footer>
                         <hr>
                         <p class="pull-right">creation by <a href="#" title="闻富成" target="_blank">闻富成</a></p>

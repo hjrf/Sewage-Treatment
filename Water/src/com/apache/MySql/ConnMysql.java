@@ -9,7 +9,7 @@ public class ConnMysql {
 	protected static String driver = "com.mysql.jdbc.Driver";
 	protected static String url = "jdbc:mysql://127.0.0.1:3306/water?useUnicode=true&characterEncoding=UTF-8";
 	protected static String user = "root"; 
-	protected static String pwd = "";
+	protected static String pwd = "123456";
 	Connection conn = null;	
 	ResultSet rs = null;	
 	PreparedStatement statement = null;

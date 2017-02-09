@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*"pageEncoding="UTF-8" %>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8" %>
 <%@ page  import="java.sql.*" import="com.apache.MySql.*" %>
 <%@ include file = "level_navbar_judge.jsp" %>
 
